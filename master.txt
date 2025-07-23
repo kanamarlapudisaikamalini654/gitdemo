@@ -1,1 +1,2 @@
 this is my first git
+here we are creating sc1
